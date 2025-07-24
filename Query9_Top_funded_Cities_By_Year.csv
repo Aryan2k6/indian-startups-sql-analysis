@@ -1,0 +1,202 @@
+year,City_Location,total_funding
+2001,Mumbai,6
+2015,Bangalore,2352
+2015,Mumbai,1902
+2015,nan,1587
+2015,"New Delhi",1311
+2015,Gurgaon,921
+2015,Hyderabad,303
+2015,Noida,194
+2015,Jaipur,170
+2015,Pune,144
+2015,Chennai,100
+2015,"Bangalore / San Mateo",80
+2015,"Pune / US",65
+2015,Chandigarh,61
+2015,"Bangalore / USA",50
+2015,Vadodara,41
+2015,Boston,30
+2015,US/India,30
+2015,"New York/ India",29
+2015,Ahmedabad,25
+2015,Kanpur,20
+2015,"Bangalore/ Bangkok",19
+2015,Kolkata,18
+2015,Bhopal,18
+2015,"Bangalore / SFO",18
+2015,Goa,13
+2015,Coimbatore,12
+2015,"Gurgaon / SFO",12
+2015,"Bangalore / Palo Alto",10
+2015,"Dallas / Hyderabad",10
+2015,Hyderabad/USA,6
+2015,"New Delhi / US",6
+2015,Belgaum,5
+2015,Gwalior,4
+2015,Singapore,3
+2015,"Noida / Singapore",3
+2015,"India / US",3
+2015,,3
+2015,"Mumbai / NY",2
+2015,USA/India,1
+2015,"Mumbai / Global",1
+2015,Udupi,1
+2015,Goa/Hyderabad,0
+2015,"Chennai/ Singapore",0
+2015,"Pune / Singapore",0
+2015,"New Delhi/ Houston",0
+2015,Nagpur,0
+2015,\\xc2\\xa0Noida,0
+2015,\\xc2\\xa0Bangalore,0
+2015,\\xc2\\xa0Gurgaon,0
+2015,"\\xc2\\xa0New Delhi",0
+2015,\\xc2\\xa0Mumbai,0
+2015,Udaipur,0
+2015,Delhi,0
+2015,"New Delhi / California",0
+2016,Bangalore,2430
+2016,Mumbai,1986
+2016,"New Delhi",1571
+2016,Gurgaon,843
+2016,Chennai,380
+2016,Pune,302
+2016,Hyderabad,250
+2016,Noida,224
+2016,Ahmedabad,127
+2016,Kolkata,118
+2016,"Bangalore/ Bangkok",80
+2016,Varanasi,52
+2016,"New Delhi / US",40
+2016,"Mumbai / UK",40
+2016,Singapore,35
+2016,Jaipur,33
+2016,,30
+2016,Kerala,27
+2016,"SFO / Bangalore",27
+2016,N/A,22
+2016,Vadodara,18
+2016,Indore,15
+2016,Goa,10
+2016,Delhi,10
+2016,Lucknow,10
+2016,"Pune / Dubai",10
+2016,Coimbatore,4
+2016,Chandigarh,2
+2016,Kanpur,2
+2016,Trivandrum,1
+2016,Pune/Seattle,1
+2016,"Bangalore / SFO",1
+2016,Bhopal,1
+2016,Jodhpur,1
+2016,Agra,0
+2016,Kochi,0
+2016,Hubli,0
+2016,Kozhikode,0
+2016,US,0
+2016,Siliguri,0
+2016,USA,0
+2016,London,0
+2016,"Seattle / Bangalore",0
+2017,Bangalore,3200
+2017,Mumbai,1849
+2017,Gurgaon,874
+2017,"New Delhi",828
+2017,Chennai,451
+2017,Pune,442
+2017,Bengaluru,371
+2017,Hyderabad,349
+2017,Ahmedabad,325
+2017,Noida,166
+2017,Delhi,133
+2017,Gaya,60
+2017,Kolkata,52
+2017,Goa,25
+2017,Coimbatore,20
+2017,Panaji,8
+2017,Vadodara,7
+2017,Gwalior,5
+2017,Jaipur,3
+2017,Missourie,3
+2017,"Uttar Pradesh",0
+2017,"Nw Delhi",0
+2017,Indore,0
+2017,Trivandrum,0
+2017,Chandigarh,0
+2017,Surat,0
+2017,Karur,0
+2017,Udupi,0
+2017,Kochi,0
+2018,Bengaluru,4201497
+2018,Mumbai,1135
+2018,Gurugram,616
+2018,Chennai,297
+2018,Delhi,249
+2018,Noida,182
+2018,Hyderabad,155
+2018,Gurgaon,129
+2018,Pune,90
+2018,Jaipur,71
+2018,Ahemadabad,63
+2018,"New Delhi",60
+2018,Ahmedabad,47
+2018,Mumbai/Bengaluru,34
+2018,Indore,30
+2018,California,30
+2018,Bangalore,26
+2018,Rourkela,25
+2018,Kolkata,20
+2018,"Delhi & Cambridge",17
+2018,"New York, Bengaluru",10
+2018,Udaipur,5
+2018,India,4
+2018,Coimbatore,3
+2018,Surat,3
+2018,India/US,2
+2018,Bhubneswar,2
+2018,Chandigarh,2
+2018,Faridabad,2
+2018,Nagpur,1
+2018,Srinagar,0
+2018,Kolkatta,0
+2018,N/A,0
+2018,Ahemdabad,0
+2018,Bhubaneswar,0
+2019,Bengaluru,510
+2019,Mumbai,306
+2019,"New Delhi",163
+2019,Pune,118
+2019,Gurgaon,89
+2019,Hyderabad,57
+2019,Andheri,57
+2019,Gurugram,53
+2019,Chennai,50
+2019,"Menlo Park",45
+2019,Kormangala,38
+2019,Karnataka,35
+2019,Mumbai/Bengaluru,34
+2019,Singapore,32
+2019,"Bengaluru and Gurugram",30
+2019,Nairobi,27
+2019,Faridabad,23
+2019,Delhi,22
+2019,India/Singapore,22
+2019,Tulangan,20
+2019,Noida,19
+2019,"San Francisco",18
+2019,"San Jose,",13
+2019,"Santa Monica",11
+2019,Jaipur,11
+2019,"Palo Alto",5
+2019,"New York",5
+2019,Bhopal,4
+2019,Amritsar,3
+2019,Taramani,3
+2019,Chembur,3
+2019,India/US,2
+2019,Burnsville,1
+2019,Haryana,1
+2020,Gurgaon,95
+2020,Chennai,90
+2020,"New Delhi",30
+2020,Bengaluru,21
+2020,Mumbai,18
